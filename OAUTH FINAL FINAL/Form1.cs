@@ -26,8 +26,8 @@ namespace OAUTH_FINAL_FINAL
         UserCredential credential;
 
         //Client ID and Secret
-        private const string ClientId = "77798700369-ncovj9o6cai378k4b67ac8melo1mlbbo.apps.googleusercontent.com";
-        private const string ClientSecret = "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";
+        private const string ClientId = "CLIENT_ID";
+        private const string ClientSecret = "CLIENT_SECRET";
         private const string RedirectUri = "http://localhost";
 
         public Form1()
