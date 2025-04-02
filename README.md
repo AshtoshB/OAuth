@@ -1,5 +1,5 @@
 
-IMPORTANT: When creating the OAuth client ID in Credentials, make sure the applicaiton type is Desktop \n
+IMPORTANT: When creating the OAuth client ID in Credentials, make sure the applicaiton type is Desktop /n
 Requirements:
    You need the following packages:
       1) Google.Apis.Auth :- Install-Package Google.Apis.Auth
